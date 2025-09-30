@@ -1,0 +1,36 @@
+.mycart{
+    margin-top: 5%;
+    width: 100%;
+    
+
+    
+}
+.title-cart{
+    font-size: 30px;
+    margin-top: 30px;
+    margin-left: 11%;
+}
+
+.cart-container {
+    width:80%;
+    margin: 10px auto;
+    display: grid;
+    grid-template-columns: 60% 40%;
+    padding: 10px;
+    justify-content: center;
+}
+@media only screen and (max-width: 650px){
+    .cart-container {
+        display: grid;
+        width: 80%;
+        grid-template-columns: 100%;
+    }
+}
+.cart-item {
+    margin: 0 5px;
+}
+.cfoo{
+    position:fixed;
+    bottom: 0;
+    width:100vw;
+}

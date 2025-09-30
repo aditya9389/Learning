@@ -1,0 +1,11 @@
+.e-cart{
+    display:flex;
+    justify-content:center; 
+    align-items:center; 
+    flex-direction:column ;
+    margin-top: 10%;
+}
+.img-e-cart{
+    height:30vh;
+     background-color:white;
+}

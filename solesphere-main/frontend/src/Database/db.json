@@ -1,0 +1,92 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "imageURL": "assets/images/puma1.jpeg",
+      "type": "New",
+      "productCategory": "Men/Women",
+      "productName": "PUMA Trigger Running Shoes",
+      "productColor": "Mercedes Team Silver",
+      "size": "Adult",
+      "qty": "1",
+      "price": 180.85
+    },
+    {
+      "id": 2,
+      "imageURL": "assets/images/puma2j.jpg",
+      "type": "",
+      "productCategory": "Men/Women",
+      "productName": "Puma Mens Rider Play on",
+      "productColor": "Red",
+      "size": "Adult",
+      "qty": "1",
+      "price": 190.85
+    },
+    {
+      "id": 3,
+      "imageURL": "assets/images/n16.jpeg",
+      "type": "",
+      "productCategory": "Men/Women",
+      "productName": "Nike Uv Color Changing Shoe",
+      "productColor": "Mercedes Team Silver",
+      "size": "Adult",
+      "qty": "1",
+      "price": 160.85
+    },
+    {
+      "id": 4,
+      "imageURL": "assets/images/n31.jpg",
+      "type": "",
+      "productCategory": "Men/Sports",
+      "productName": "Nike Air Force 1 Shoes",
+      "productColor": "Mercedes Team Silver",
+      "size": "Adult",
+      "qty": "1",
+      "price": 200
+    },
+    {
+      "id": 5,
+      "imageURL": "assets/images/a18.jpg",
+      "type": "",
+      "productCategory": "Men/Women",
+      "productName": "LITE RACER 3.0 Running Shoes",
+      "productColor": "Mercedes Team Silver",
+      "size": "Adult",
+      "qty": "1",
+      "price": 120.85
+    },
+    {
+      "id": 6,
+      "imageURL": "assets/images/a1.jpg",
+      "type": "",
+      "productCategory": "Men/Women",
+      "productName": "Adidas Adi Zoom Running Shoes",
+      "productColor": "Mercedes Team Silver",
+      "size": "Adult",
+      "qty": "1",
+      "price": 100.25
+    },
+    {
+      "id": 7,
+      "imageURL": "assets/images/bata2j.jpg",
+      "type": "",
+      "productCategory": "Men/Sports",
+      "productName": "Formal Shoes Slip On For Men",
+      "productColor": "Mercedes Team Silver",
+      "size": "Adult",
+      "qty": "1",
+      "price": 120
+    },
+    {
+      "id": 8,
+      "imageURL": "assets/images/apex3j.jpg",
+      "type": "New",
+      "productCategory": "Men/Women",
+      "productName": "Light and Comfortable Shoes",
+      "productColor": "Dusty Orchid Puma",
+      "size": "Adult",
+      "qty": "1",
+      "price": 100.85
+    }
+  ]
+}

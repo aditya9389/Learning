@@ -1,0 +1,19 @@
+.checkout{
+    display: flex;
+    justify-content: center;
+     padding-top: 100px;
+     margin-top: 10px; 
+     width: 100%;
+     height: 80vh;
+}
+.checkout-img{
+    width: 50%;
+     height: 50%;
+     align-items: center;
+}
+
+.coFoo{
+    position:fixed;
+    bottom: 0;
+    width:100vw; 
+}

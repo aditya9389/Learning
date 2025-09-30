@@ -1,0 +1,304 @@
+{
+  "Products": [
+    {
+      "men_shoes": [
+        {
+          "id": 1,
+          "imageURL": "assets/images/puma1.jpeg",
+          "type": "New",
+          "productCategory": "Men/Women",
+          "productName": "PUMA Trigger Running Shoes",
+          "productColor": "Black Team Silver",
+          "size": "Adult",
+          "qty": "1",
+          "price": 180.85,
+          "brandName": "PUMA"
+        },
+        {
+          "id": 2,
+          "imageURL": "assets/images/puma2j.jpg",
+          "type": "",
+          "productCategory": "Men",
+          "productName": "Puma Mens Rider Play on",
+          "productColor": "White",
+          "size": "Adult",
+          "qty": "1",
+          "price": 190.85,
+          "brandName": "PUMA"
+        },
+        {
+          "id": 3,
+          "imageURL": "assets/images/a1.jpg",
+          "type": "",
+          "productCategory": "Men/Women",
+          "productName": "Adidas Adi Zoom Running Shoes",
+          "productColor": "White Red Blue",
+          "size": "Adult",
+          "qty": "1",
+          "price": 100.25,
+          "brandName": "ADIDAS"
+        },
+        {
+          "id": 4,
+          "imageURL": "assets/images/a1.jpeg",
+          "type": "",
+          "productCategory": "Men/Women",
+          "productName": "Adidas Running Shoes",
+          "productColor": "White Team Black",
+          "size": "Adult",
+          "qty": "1",
+          "price": 100.25,
+          "brandName": "ADIDAS"
+        },
+        {
+          "id": 5,
+          "imageURL": "assets/images/a3.jpg",
+          "type": "",
+          "productCategory": "Men/Women",
+          "productName": "APEX Rider Shoes",
+          "productColor": "Black Team Silver",
+          "size": "Adult",
+          "qty": "1",
+          "price": 150.25,
+          "brandName": "APEX"
+        },
+        {
+          "id": 6,
+          "imageURL": "assets/images/nike3.jpeg",
+          "type": "",
+          "productCategory": "Men/Women",
+          "productName": "Nike Running Shoes",
+          "productColor": "White Red Black",
+          "size": "Adult",
+          "qty": "1",
+          "price": 140.25,
+          "brandName": "NIKE"
+        },
+        {
+          "id": 7,
+          "imageURL": "assets/images/bata1.jpg",
+          "type": "",
+          "productCategory": "Men",
+          "productName": "Bata Shoes",
+          "productColor": "Bata Black",
+          "size": "Adult",
+          "qty": "1",
+          "price": 110.25,
+          "brandName": "BATA"
+        }
+      ] 
+    },
+    {
+      "women_shoes": [
+        {
+          "id": 1,
+          "imageURL": "assets/images/puma4.jpg",
+          "type": "",
+          "productCategory": "Women",
+          "productName": "Puma Rider Play on",
+          "productColor": "Pink",
+          "size": "Adult",
+          "qty": "1",
+          "price": 190.85,
+          "brandName": "PUMA"
+        },
+        {
+          "id": 2,
+          "imageURL": "assets/images/a18.jpg",
+          "type": "",
+          "productCategory": "Men/Women",
+          "productName": "Adidas LITE RACER 3.0 Running Shoes",
+          "productColor": "Sky Blue White",
+          "size": "Adult",
+          "qty": "1",
+          "price": 120.85,
+          "brandName": "ADIDAS"
+        },
+        {
+          "id": 3,
+          "imageURL": "assets/images/apex2.jpg",
+          "type": "",
+          "productCategory": "Women",
+          "productName": "Bata Slipper",
+          "productColor": "Bata Team Rider",
+          "size": "Adult",
+          "qty": "1",
+          "price": 190.83,
+          "brandName": "BATA"
+        },
+        {
+          "id": 4,
+          "imageURL": "assets/images/apex4j.jpg",
+          "type": "",
+          "productCategory": "Men/Women",
+          "productName": "Apex Rider Play on",
+          "productColor": "Black",
+          "size": "Adult",
+          "qty": "1",
+          "price": 200.85,
+          "brandName": "APEX"
+        },
+        {
+          "id": 5,
+          "imageURL": "assets/images/nike8.jpg",
+          "type": "",
+          "productCategory": "Men/Women",
+          "productName": "Nike Rider Play on",
+          "productColor": "Green Red",
+          "size": "Adult",
+          "qty": "1",
+          "price": 230.85,
+          "brandName": "NIKE"
+        }
+      ]
+    },
+    {
+      "sports_shoes": [
+        {
+          "id": 1,
+          "imageURL": "assets/images/n24.jpeg",
+          "type": "",
+          "productCategory": "Men/Women",
+          "productName": "Nike Black Color Changing Shoe",
+          "productColor": "Mercedes Team Silver",
+          "size": "Adult",
+          "qty": "1",
+          "price": 160.85,
+          "brandName": "NIKE"
+        },
+        {
+          "id": 2,
+          "imageURL": "assets/images/apex5.jpg",
+          "type": "",
+          "productCategory": "Men/Sports",
+          "productName": "Apex Shoes For Men",
+          "productColor": "Black Silver",
+          "size": "Adult",
+          "qty": "1",
+          "price": 120,
+          "brandName": "APEX"
+        },
+        {
+          "id": 3,
+          "imageURL": "assets/images/apex3j.jpg",
+          "type": "New",
+          "productCategory": "Men/Women",
+          "productName": "Light and Comfortable Shoes",
+          "productColor": "Dusty Orchid Puma",
+          "size": "Adult",
+          "qty": "1",
+          "price": 100.85,
+          "brandName": "PUMA"
+        },
+        {
+          "id": 4,
+          "imageURL": "assets/images/puma1.jpg",
+          "type": "",
+          "productCategory": "Men/Women",
+          "productName": "Adidas Sports Changing Shoe",
+          "productColor": "Black Silver",
+          "size": "Adult",
+          "qty": "1",
+          "price": 123.85,
+          "brandName": "ADIDAS"
+        },
+        {
+          "id": 5,
+          "imageURL": "assets/images/bata5.jpeg",
+          "type": "",
+          "productCategory": "Men/Women",
+          "productName": "Bata Sports Shoes",
+          "productColor": "Bata Black Silver",
+          "size": "Adult",
+          "qty": "1",
+          "price": 123.85,
+          "brandName": "BATA"
+        }
+      ]
+    },
+    {
+      "best_sellers": [
+        {
+          "id": 1,
+          "imageURL": "assets/images/nike.jpg",
+          "type": "",
+          "productCategory": "Men/Women",
+          "productName": "Nike Sports Changing Shoe",
+          "productColor": "White Black Silver",
+          "size": "Adult",
+          "qty": "1",
+          "price": 120.85,
+          "brandName": "NIKE"
+        },
+        {
+          "id": 2,
+          "imageURL": "assets/images/top5.avif",
+          "type": "",
+          "productCategory": "Men/Women",
+          "productName": "Adidas Latest Changing Shoe",
+          "productColor": "Red Team Silver",
+          "size": "Adult",
+          "qty": "1",
+          "price": 120.85,
+          "brandName": "ADIDAS"
+        },
+        {
+          "id": 3,
+          "imageURL": "assets/images/puma7j.jpg",
+          "type": "",
+          "productCategory": "Men/Women",
+          "productName": "Puma Changing Shoe",
+          "productColor": "Blue Black Team Silver",
+          "size": "Adult",
+          "qty": "1",
+          "price": 300.5,
+          "brandName": "PUMA"
+        }
+      ]
+    },
+    {
+      "recommended_pro": [
+        {
+          "id": 1,
+          "imageURL": "assets/images/product1.jpg",
+          "type": "",
+          "productCategory": "Men/Women",
+          "productName": "Nike Changing Shoe",
+          "productColor": "Green Team Silver",
+          "size": "Adult",
+          "qty": "1",
+          "price": 120.85,
+          "brandName": "NIKE"
+        },
+        {
+          "id": 2,
+          "imageURL": "assets/images/puma10.jpeg",
+          "type": "",
+          "productCategory": "Men/Women",
+          "productName": "Puma Rider Play on",
+          "productColor": "White Team Silver",
+          "size": "Adult",
+          "qty": "1",
+          "price": 321.21,
+          "brandName": "PUMA"
+        }
+      ]
+    },
+    {
+      "nike_special": [
+        {
+          "id": 1,
+          "imageURL": "assets/images/n19.jpg",
+          "type": "",
+          "productCategory": "Men/Women",
+          "productName": "Nike Running Shoes",
+          "productColor": "White Team Silver",
+          "size": "Adult",
+          "qty": "1",
+          "price": 120.85,
+          "brandName": "NIKE"
+        }
+      ]
+    }
+  ]
+}

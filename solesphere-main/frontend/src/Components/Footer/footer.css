@@ -1,0 +1,35 @@
+.footer {
+    font-family: var(--ff-roboto);
+    background:#1a2031;
+    color: white;
+   margin-bottom: 0%;
+   position:relative;
+   justify-content: center;
+    padding-block: 1px;
+  }
+  
+  .copyright {
+    text-align: center;
+    color:white;
+    font-size: 17px;
+    font-weight: bold;
+    height: 50px;
+    /* margin-top: 1px; */
+    margin-bottom: 0%;
+  }
+  
+  .copyright-link {
+    display: inline-block;
+    color:  #0972ce;
+    font-size: 15px;
+    font-weight: bold;
+  }
+  
+  
+  .footer-top {
+    background: var(--cultured);
+  }
+  
+  .hidden {
+    display: none;
+}

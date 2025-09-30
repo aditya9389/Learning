@@ -1,0 +1,4 @@
+export const ActionType = {
+    FETCH_PRODUCT: "FETCH_PRODUCT",
+    FILTER_PRODUCT: "FILTER_PRODUCT",
+}

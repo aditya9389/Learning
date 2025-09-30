@@ -1,0 +1,14 @@
+.w-cart{
+    height:60vh; 
+    display:flex; 
+    justify-content:space-evenly; 
+    align-items:center;
+    flex-direction:column;
+    margin: 5%;
+}
+.img-w-cart{
+    height:30vh; 
+    background-color:white;
+}
+
+
