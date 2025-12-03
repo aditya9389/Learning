@@ -15,6 +15,7 @@
   "devDependencies": {
     "@cypress/webpack-preprocessor": "^7.0.1",
     "@types/node": "^24.7.1",
+    "cypress-iframe": "^1.0.1",
     "cypress-xpath": "^2.0.1",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
